@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shield
+  - ShieldHitPoint
+  - Coin
+  - Key
+  - Door
+  - Trap
+  - Core
+  - WeakSpot
+  - Spawn
+  - Play
+  - Options
+  - Credits
+  - Exit
+  - Gallery
+  - Continue
+  - Restart
+  - Menu
+  - Back
+  - FindCore
+  - Apply
+  - Cancel
+  - NormalEnemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Destruible
+  - Enemy
+  - Slime
+  - Shield
+  - Door
+  - Core
+  - Recolectables
+  - Iris
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fire
+  m_Shader: {fileID: -6465566751694194690, guid: 3c4b9c08cb2bb0542b31c46f84e42fbd,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_CEEFAA90:
+        m_Texture: {fileID: 2800000, guid: 4c8e5321f5670cd4a8d4ff44a43a2e6f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1D8436E8: 3.38
+    - Vector1_40541836: 0.07
+    - Vector1_677A1D1E: 0.72
+    - Vector1_D2A14103: 7.5
+    m_Colors:
+    - Color_C86E82: {r: 34.66166, g: 5.262764, b: 2.540645, a: 0}
+    - Vector2_25B47997: {r: -0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_514EDDEA: {r: 0, g: -0.3, b: 0, a: 0}
+  m_BuildTextureStacks: []
